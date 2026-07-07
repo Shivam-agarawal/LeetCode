@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shivam-agarawal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shivam-agarawal/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shivam-agarawal/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shivam-agarawal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shivam-agarawal/LeetCode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Shivam-agarawal/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shivam-agarawal/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shivam-agarawal/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
