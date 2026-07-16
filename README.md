@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivam-agarawal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shivam-agarawal/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Shivam-agarawal/LeetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shivam-agarawal/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shivam-agarawal/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivam-agarawal/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Shivam-agarawal/LeetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shivam-agarawal/LeetCode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Shivam-agarawal/LeetCode/tree/master/0905-sort-array-by-parity) |
