@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shivam-agarawal/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shivam-agarawal/LeetCode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivam-agarawal/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shivam-agarawal/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0905-sort-array-by-parity](https://github.com/Shivam-agarawal/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shivam-agarawal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Shivam-agarawal/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivam-agarawal/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shivam-agarawal/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -95,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam-agarawal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
