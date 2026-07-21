@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shivam-agarawal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shivam-agarawal/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Shivam-agarawal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shivam-agarawal/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shivam-agarawal/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
