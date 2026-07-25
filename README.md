@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shivam-agarawal/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Shivam-agarawal/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivam-agarawal/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0179-largest-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivam-agarawal/LeetCode/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Shivam-agarawal/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivam-agarawal/LeetCode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam-agarawal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shivam-agarawal/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shivam-agarawal/LeetCode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
