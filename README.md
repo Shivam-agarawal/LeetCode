@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivam-agarawal/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Shivam-agarawal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivam-agarawal/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shivam-agarawal/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Shivam-agarawal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0414-third-maximum-number) |
 | [0791-custom-sort-string](https://github.com/Shivam-agarawal/LeetCode/tree/master/0791-custom-sort-string) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivam-agarawal/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Shivam-agarawal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 | [0791-custom-sort-string](https://github.com/Shivam-agarawal/LeetCode/tree/master/0791-custom-sort-string) |
 ## String
