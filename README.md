@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Shivam-agarawal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/Shivam-agarawal/LeetCode/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/Shivam-agarawal/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shivam-agarawal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Shivam-agarawal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/Shivam-agarawal/LeetCode/tree/master/0791-custom-sort-string) |
 ## String
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivam-agarawal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Shivam-agarawal/LeetCode/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Shivam-agarawal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/Shivam-agarawal/LeetCode/tree/master/0791-custom-sort-string) |
 ## Trie
 |  |
@@ -159,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Shivam-agarawal/LeetCode/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/Shivam-agarawal/LeetCode/tree/master/0089-gray-code) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shivam-agarawal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shivam-agarawal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shivam-agarawal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
