@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Shivam-agarawal/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Shivam-agarawal/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0905-sort-array-by-parity](https://github.com/Shivam-agarawal/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shivam-agarawal/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivam-agarawal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivam-agarawal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Shivam-agarawal/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/Shivam-agarawal/LeetCode/tree/master/0791-custom-sort-string) |
 ## String
 |  |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Shivam-agarawal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shivam-agarawal/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shivam-agarawal/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
